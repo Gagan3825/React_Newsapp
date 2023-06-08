@@ -1,7 +1,11 @@
 
 
 
-https://github.com/Gagan3825/React_Newsapp/assets/84625527/b5837d5d-8ab6-49fe-90dc-6195b1fa294b
+
+
+https://github.com/Gagan3825/React_Newsapp/assets/84625527/a7867f96-68f6-4107-964a-6a136634ff7a
+
+
 
 **You can run this project by using  **npx expo start****
 
